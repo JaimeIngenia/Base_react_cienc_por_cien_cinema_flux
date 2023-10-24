@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container__card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5xp rgb(216, 12, 12) dotted ;
+    width: 20%;
+}
+
+
+
+.container__card img{
+    width: 90%;
+}
+
+.container__home__page h3{
+    
+}
